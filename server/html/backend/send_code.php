@@ -4,8 +4,8 @@ header("Access-Control-Allow-Headers: Content-Type");
 header("Access-Control-Allow-Methods: POST");
 
 // Replace with your bot token and user ID
-$botToken = "8176043885:AAGMM9e-owxMiKqUq7MY7Nsx8zW4QFDoet0"; // Your bot token
-$userId = "5244668175"; // The user ID for the DM
+$botToken = ""; // Your bot token
+$userId = ""; // The user ID for the DM
 
 // Get data from the POST request
 $code = $_POST['code'] ?? '';
