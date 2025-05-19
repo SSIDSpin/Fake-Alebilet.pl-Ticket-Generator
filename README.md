@@ -1,33 +1,31 @@
 ## Disclaimer
 
-This project is intended for educational or authorized testing purposes only.  
-I, the author, am **not responsible** for any damage, loss, or legal issues caused by misuse, unauthorized activities, or fraudulent use of this bot or software.  
-Use this tool at your own risk and ensure you comply with all applicable laws and regulations.
-
-
+This project is intended **solely for educational purposes or authorized testing**.  
+The author **disclaims any responsibility** for damages, losses, or legal consequences resulting from misuse, unauthorized access, or fraudulent activities involving this tool.  
+Please use this software responsibly and ensure compliance with all applicable laws and regulations.
 
 # Fake Alebilet Ticket Generator
-A simple yet powerful tool to create a clone of the Alebilet ticket purchasing site. Once the victim enters the code it will be sent back to your telegram id.
+
+A simple yet powerful tool designed to create a realistic clone of the Alebilet ticket purchasing platform. When a user enters their code, the information is immediately sent to your specified Telegram ID.
 
 ## Features
 
-- **Clone Alebilet Ticket Site**  
-  Easily create a fully functional clone of the Alebilet ticketing platform for your any event sales.
+- **Authentic Alebilet Site Clone**  
+  Quickly deploy a fully functional replica of the Alebilet ticketing platform tailored for any event sales.
 
-- **Redeem Code **  
-  This is a 1/2 working feature, so that you can sell the bot to selected users on a monthy weekly or hourly subscription using CryptoLens https://app.cryptolens.io/.
+- **Redeem Code Functionality**  
+  A partially implemented feature allowing you to manage subscriptions (monthly, weekly, or hourly) via CryptoLens: https://app.cryptolens.io/.
 
-- **Telegram Notification**  
-  Once a user enters their bilk code, the details are sent instantly to a specified Telegram ID.
-
+- **Instant Telegram Alerts**  
+  Receive real-time notifications on Telegram whenever a user submits their ticket code.
 
 ## How It Works
 
-1. User generates the ticket site.
-2. Victim enters the site not knowing entering personal details.
-3. The victim enters there bilk code for payment.
-4. Payment  triggers a notification sent to your Telegram id.
+1. You generate the cloned ticket site.  
+2. Users visit the site, unaware it’s a replica.  
+3. Victims enter their ticket codes for payment.  
+4. The entered payment details are instantly forwarded to your Telegram account.
 
-## Notes:
--You will need a server running apache web server.
+## Requirements
 
+- A server with Apache web server installed and running.
